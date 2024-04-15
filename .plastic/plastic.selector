@@ -1,0 +1,4 @@
+repository "Dodger@fengiiii@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
